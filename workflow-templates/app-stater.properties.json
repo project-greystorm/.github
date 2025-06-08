@@ -2,6 +2,5 @@
     "name": "Project Greystorm Workflow",
     "description": "Build and test a Node.js project with npm for roject Greystorm",
     "iconName": "auto",
-    "categories": [ "npm config"],
-    "labels": ["preview"]
+    "categories": [ "npm config"]
 }
