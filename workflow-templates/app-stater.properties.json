@@ -1,0 +1,7 @@
+{
+    "name": "Project Greystorm Workflow",
+    "description": "Build and test a Node.js project with npm for roject Greystorm",
+    "iconName": "nodejs",
+    "categories": ["Continuous integration", "JavaScript", "npm"],
+    "labels": ["preview"]
+}
